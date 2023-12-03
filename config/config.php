@@ -9,6 +9,7 @@
 
     const PUBLICDOCS = URL_FULL.'/public';
     //constante para mandar a llamar el header
+    const METATAGS = 'views/_layouts/metatags.php';
     const CAB = 'views/_layouts/header.php';
     const FOOT = 'views/_layouts/footer.php';
 
